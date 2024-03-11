@@ -1,0 +1,262 @@
+[
+  {
+     "isbn":"9781649374042",
+     "title":"Fourth Wing",
+     "author":"Yaros, Rebecca",
+     "releaseDate":"2023-05-02",
+     "plotLink":"https://www.goodreads.com/book/show/61431922-fourth-wing",
+     "genres":[
+        "Fantasy",
+        "Fiction",
+        "Romance",
+        "Dragons"
+     ],
+     "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1701980900i/61431922.jpg",
+     "alternate":[
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697000609i/176403358.jpg"
+     ],
+     "reviewIds":[
+        
+     ]
+  },
+  {
+     "isbn":"9780307887436",
+     "title":"Ready Player One",
+     "author":"Cline, Ernest",
+     "releaseDate":"2011-08-16",
+     "plotLink":"https://www.goodreads.com/book/show/9969571-ready-player-one",
+     "genres":[
+        "Science Fiction",
+        "Fiction",
+        "Dystopia",
+        "Young Adult"
+     ],
+     "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500930947i/9969571.jpg",
+     "alternate":[
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390275705i/20603758.jpg",
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1561428264i/12359421.jpg",
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1514921312i/35210501.jpg"
+     ],
+     "reviewIds":[
+        
+     ]
+  },
+  {
+     "isbn":"9780553588484",
+     "title":"A Game of Thrones",
+     "author":"Martin, George R. R.",
+     "releaseDate":"2005-08-01",
+     "plotLink":"https://www.goodreads.com/book/show/13496.A_Game_of_Thrones",
+     "genres":[
+        "Fantasy",
+        "Fiction",
+        "Adult",
+        "Dragons"
+     ],
+     "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562726234i/13496.jpg",
+     "alternate":[
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518078493i/6421982.jpg",
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1568825445l/50863421.jpg",
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661026809i/11264999.jpg"
+     ],
+     "reviewIds":[
+        
+     ]
+  },
+  {
+     "isbn":"1338878921",
+     "title":"Harry Potter and the Sorcerer's Stone",
+     "author":"Rowling, J.K.",
+     "releaseDate":"1997-07-26",
+     "plotLink":"https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone",
+     "genres":[
+        "Fantasy",
+        "Fiction",
+        "Young Adult",
+        "Magic"
+     ],
+     "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1474154022i/3.jpg",
+     "alternate":[
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1170803558l/72193.jpg",
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659087827i/28757261.jpg",
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598823299i/42844155.jpg"
+     ],
+     "reviewIds":[
+        
+     ]
+  },
+  {
+     "isbn":"9780440241027",
+     "title":"One Shot",
+     "author":"Child, Lee",
+     "releaseDate":"2006-01-01",
+     "plotLink":"https://www.goodreads.com/book/show/220968.One_Shot",
+     "genres":[
+        "Thriller",
+        "Fiction",
+        "Myster",
+        "Crime",
+        "Action"
+     ],
+     "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1425164069i/220968.jpg",
+     "alternate":[
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556685641i/45421249.jpg",
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320510755i/9007046.jpg",
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1340523947i/900487.jpg"
+     ],
+     "reviewIds":[
+        
+     ]
+  },
+  {
+     "isbn":"9780765326355",
+     "title":"The Way of Kings",
+     "author":"Sanderson, Brandon",
+     "releaseDate":"2010-08-31",
+     "plotLink":"https://www.goodreads.com/book/show/7235533-the-way-of-kings",
+     "genres":[
+        "High Fantasy",
+        "Fiction",
+        "Adult",
+        "Fantasy"
+     ],
+     "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659905828i/7235533.jpg",
+     "alternate":[
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1397465050i/11203858.jpg"
+     ],
+     "reviewIds":[
+        
+     ]
+  },
+  {
+     "isbn":"9780439023481",
+     "title":"The Hunger Games",
+     "author":"Collins, Suzanne",
+     "releaseDate":"2008-10-14",
+     "plotLink":"https://www.goodreads.com/book/show/2767052-the-hunger-games",
+     "genres":[
+        "Fantasy",
+        "Fiction",
+        "Young Adult",
+        "Science Fiction"
+     ],
+     "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052.jpg",
+     "alternate":[
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1592234598i/49494289.jpg",
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394501518i/18661631.jpg"
+     ],
+     "reviewIds":[
+        
+     ]
+  },
+  {
+     "isbn":"9780060776091",
+     "title":"Brave New World",
+     "author":"Huxley, Aldous",
+     "releaseDate":"1958-01-01",
+     "plotLink":"https://www.goodreads.com/book/show/5479.Brave_New_World_Brave_New_World_Revisited",
+     "genres":[
+        "Science Fiction",
+        "Fiction",
+        "Dystopia",
+        "Classics"
+     ],
+     "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1331315450i/5479.jpg",
+     "alternate":[
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388207914i/5480.jpg",
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320405260i/3356343.jpg"
+     ],
+     "reviewIds":[
+        
+     ]
+  },
+  {
+     "isbn":"9781635575569",
+     "title":"A Court of Thorns and Roses",
+     "author":"Maas, Sarah J.",
+     "releaseDate":"2015-05-05",
+     "plotLink":"https://www.goodreads.com/book/show/50659467-a-court-of-thorns-and-roses",
+     "genres":[
+        "Fantasy",
+        "Young Adult",
+        "Fiction",
+        "Romance"
+     ],
+     "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620324329i/50659467.jpg",
+     "alternate":[
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546406962i/16096824.jpg",
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581070622i/50659466.jpg"
+     ],
+     "reviewIds":[
+        
+     ]
+  },
+  {
+     "isbn":"9780375826696",
+     "title":"Eragon",
+     "author":"Paolini, Christopher",
+     "releaseDate":"2005-06-01",
+     "plotLink":"https://www.goodreads.com/book/show/113436.Eragon",
+     "genres":[
+        "Fantasy",
+        "Young Adult",
+        "Fiction",
+        "Dragons",
+        "Adventure"
+     ],
+     "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1701980900i/61431922.jpg",
+     "alternate":[
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697000609i/176403358.jpg"
+     ],
+     "reviewIds":[
+        
+     ]
+  },
+  {
+     "isbn":"9780142437179",
+     "title":"The Adventures of Huckleberry Finn",
+     "author":"Twain, Mark",
+     "releaseDate":"1884-02-18",
+     "plotLink":"https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn",
+     "genres":[
+        "Fiction",
+        "Young Adult",
+        "Classics",
+        "Literature",
+        "Adventure"
+     ],
+     "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546096879i/2956.jpg",
+     "alternate":[
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388463189i/19374.jpg",
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619576236i/57653649.jpg",
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1496336929i/35109296.jpg"
+     ],
+     "reviewIds":[
+        
+     ]
+  },
+  {
+     "isbn":"9780345368584",
+     "title":"The Hobbit",
+     "author":"Tolkien, J. R. R.",
+     "releaseDate":"1989-01-01",
+     "plotLink":"https://www.goodreads.com/book/show/659469.The_Hobbit",
+     "genres":[
+        "Fantasy",
+        "Young Adult",
+        "Fiction",
+        "Classics",
+        "Adventure",
+        "Dragon"
+     ],
+     "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1374681632i/659469.jpg",
+     "alternate":[
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348791598i/1490430.jpg",
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1533894393i/41088007.jpg",
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1319409481i/6598704.jpg"
+     ],
+     "reviewIds":[
+        
+     ]
+  }
+]
