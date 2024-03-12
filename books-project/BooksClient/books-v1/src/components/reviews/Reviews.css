@@ -1,0 +1,7 @@
+.book-cover {
+    max-width: 250px; 
+    max-height: 300px; 
+    border: 1px solid white;
+    border-radius: 10px;
+    overflow: hidden;
+}
