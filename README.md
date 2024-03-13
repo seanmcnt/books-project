@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-# books-project
-Sample Full Stack project for Book library / reviews
-=======
 # Tomes
 Sample Full Stack project for Monthly Book Recommendations with user reviews
 -------
